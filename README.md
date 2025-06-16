@@ -19,6 +19,6 @@
 * By default Playwright test runs in headless mode, to run in headed mode use -– headed flag.
 * Run the **npx playwright test --headed** command to execute the test cases.
 
-### Report & Logs
+### Reports
 * After execution, report file **index.html** is created under **playwright-report** directory.
 * Screenshot and video will be attached for failed scenarios.
