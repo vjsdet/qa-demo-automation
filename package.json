@@ -1,0 +1,12 @@
+
+{
+  "name": "qa-demo-automation",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "typescript": "^5.0.0"
+  }
+}
