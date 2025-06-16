@@ -1,7 +1,7 @@
 ### Instructions
 * Clone the repo using below command.
 
-  **git clone REPO_URL**
+  **git clone https://github.com/vjsdet/qa-demo-automation**
 * Install Node.js from below URL.
 
   **https://nodejs.org/en/download/**
